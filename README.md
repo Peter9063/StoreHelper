@@ -1,2 +1,2 @@
 # StoreHelper
-开店助手
+电商助手
